@@ -14,4 +14,4 @@ var first = 0.1;
 var second = 0.2;
 var total2 = first + second;
 
-console.log(parseInt(total2).toFixed(2))
+console.log(total2.toFixed(2))
